@@ -1,3 +1,10 @@
 #Jitu Program Git lesson
 
 The git is a ditributed version control system
+
+advantages
+ collaboration
+ allows multiple developers to work on the same codebase
+ provide a record of all changes
+ easy identification and resolution of conflicts
+ facilitates code reviews
