@@ -8,3 +8,11 @@ advantages
  provide a record of all changes
  easy identification and resolution of conflicts
  facilitates code reviews
+
+
+git init - used to create a new git repository
+git add: add changes to the staging area
+git commit: records changes to the repository
+git status: shows the status of the repository
+git log: displays a log of all commits to the repository
+
