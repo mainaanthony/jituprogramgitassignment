@@ -16,3 +16,10 @@ git commit: records changes to the repository
 git status: shows the status of the repository
 git log: displays a log of all commits to the repository
 
+Git workflow
+
+working directory-git add- where files are stored
+
+staging area-git add-changes are prepared for commit
+ 
+repository - where files and changes are stored permanently
