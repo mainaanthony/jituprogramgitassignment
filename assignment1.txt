@@ -23,3 +23,11 @@ working directory-git add- where files are stored
 staging area-git add-changes are prepared for commit
  
 repository - where files and changes are stored permanently
+
+Branching and the advantages
+  allowed developers to create branches to work on new features or bugs
+  they are isolated from the main codebase until they are merged back in
+  git merge is used to combine the changes made on the different branches
+  git checkout/ git switch: to change the branch for instance git checkout trial would take ys to the branch trial
+  git branch trial: creates a new branch called trial
+  git merge trial would merge the changes that were in trial to the main branch
